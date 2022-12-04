@@ -1,0 +1,4 @@
+#ifndef ARMORDETECTOR_H
+#define ARMORDETECTOR_H
+
+#endif // ARMORDETECTOR_H
