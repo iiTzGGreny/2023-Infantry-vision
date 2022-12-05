@@ -32,6 +32,10 @@ public:
      *  @brief  从相机读取图片
      */
     void ImageProducer();
+    /**
+     *  @brief  图片处理
+     */
+    void ImageConsumer();
 };
 
 
